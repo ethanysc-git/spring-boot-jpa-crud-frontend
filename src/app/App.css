@@ -1,0 +1,11 @@
+/* Your styles goes here. */
+.main-component {
+  display: table;
+  width: 100%;
+  height: 94.5%;
+}
+
+.main-component > div {
+  display: table-cell;
+  width: 25%;
+}
